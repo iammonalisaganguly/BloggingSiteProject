@@ -1,0 +1,28 @@
+{
+  "name": "project-1-blogging-site",
+  "version": "1.0.0",
+  "description": "First Mini Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj141020/Project-1-Blogging-Site.git"
+  },
+  "author": "Raj, Monalisa, Anshika, Preeti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj141020/Project-1-Blogging-Site/issues"
+  },
+  "homepage": "https://github.com/Raj141020/Project-1-Blogging-Site#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  }
+}
